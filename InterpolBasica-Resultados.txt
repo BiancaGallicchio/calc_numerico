@@ -1,0 +1,17 @@
+Resultados das interpolacoes
+
+Exemplo "b":
+p(x) = x^2 -6*x +11
+P(2.5) = 2.25
+
+
+Exemplo "c":
+p(x) = 0.6667*x^2 -2.3333*x +1 
+P(1) = -0.6666
+
+
+Exemplo "d":
+p(x) = 2*x^4 -3*x^3 +0*x^2 +7*x -9
+P(3) = 93
+
+
